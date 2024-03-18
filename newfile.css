@@ -1,0 +1,76 @@
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+.border-radius{
+    border-radius: 20px;
+    padding: 80px;
+}
+.border-radius-one{
+    border-radius: 20px;
+    padding: 0px;
+}
+.span-color{
+    color:red;
+}
+.navbar-expand-lg{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 20px;
+}
+.navbar_bg{
+    background-color: #000200;
+}
+.about-container{
+    background-color: rgb(99, 187, 216);
+}
+.circle{
+    background-color: orange;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.card-margin{
+    margin-left: 50px;
+}
+.education-container{
+    /* background-image:url(img/educationjpg.jpg); */
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.text-color{
+    color: orange;
+    border-bottom: dashed;
+}
+.contact-bg{
+    background-color: orangered;
+}
+.contact-border{
+    margin-right: 10px;
+}
+.inner-form{
+    background-color: orangered;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color:black;
+    color: white;
+}
+.circle-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: blue;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    display: inline-block;
+}
+.circle-logo:hover{
+    color: white;
+    background-color: gray;
+}
